@@ -4,10 +4,15 @@
 
 ### Hi there 👋
 
-#### 👷 Check out what I've recently contributed to
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+I am Romain Ledru, a French Engineer living in Germany.
+I enjoy writting code that help people to fulfill everydays tasks.
+
+I strongly think that our future will have more and more automatised processes.
+As an engineer, I enjoy using new technologies to improve our lives: Code is a great way to improve processes and I have lot of fun discovering this parallel world.
+
+## Coding Skills 🔭
+
+![Romain's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romainledru&layout=compact)
 
 
 <!--
@@ -24,5 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Romain's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romainledru&layout=compact)

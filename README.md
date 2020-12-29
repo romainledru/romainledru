@@ -8,12 +8,19 @@ I am Romain Ledru, a French Engineer living in Germany.
 I enjoy writting code that help people to fulfill everydays tasks.
 
 I strongly think that our future will have more and more automatised processes.
-As an engineer, I enjoy using new technologies to improve our lives: Code is a great way to improve processes and I have lot of fun discovering this parallel world.
+As an engineer, I have fun using new technologies to improve our lives.
 
 ## Coding Skills 🔭
 
 ![Romain's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romainledru&layout=compact)
 
+## Experience
+
+<lu>
+    <li>Data Analysis at work (Autonomous Driving Assistant Systems) (Python)</li>
+    <li>Local Server at home (Django) (RaspberryPi4)</li>
+    <li>Automatised Tracking processes (Stocks market, Amazon prices)</li>
+</lu>
 
 <!--
 **romainledru/romainledru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

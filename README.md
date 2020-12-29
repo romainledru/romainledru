@@ -17,7 +17,7 @@ As an engineer, I have fun using new technologies to improve our lives.
 
 ![Romain's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romainledru&layout=compact)
 
-## Experience
+## Experience 🌱
 
 * Data Analysis at work
     * Autonomous Driving Assistant Systems

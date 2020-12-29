@@ -1,5 +1,7 @@
+<h1 align="center">
+    Romain Ledru
+</h1>
 <p align="center">
-    <h1>Romain Ledru</h1>
     <a href="https://github.com/romainledru"><img src="https://img.shields.io/github/followers/romainledru.svg?label=GitHub&style=social" alt="GitHub"></a>
 </p>
 

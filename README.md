@@ -16,11 +16,15 @@ As an engineer, I have fun using new technologies to improve our lives.
 
 ## Experience
 
-<lu>
-    <li>Data Analysis at work (Autonomous Driving Assistant Systems) (Python)</li>
-    <li>Local Server at home (Django) (RaspberryPi4)</li>
-    <li>Automatised Tracking processes (Stocks market, Amazon prices)</li>
-</lu>
+* Data Analysis at work
+    * Autonomous Driving Assistant Systems
+    * Python
+* Local Server at home
+    * Django
+    * RaspberryPi 4
+* Automatised Tracking processes
+    * Stocks market
+    * Amazon prices
 
 <!--
 **romainledru/romainledru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

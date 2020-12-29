@@ -4,6 +4,11 @@
 
 ### Hi there 👋
 
+#### 👷 Check out what I've recently contributed to
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
 
 <!--
 **romainledru/romainledru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

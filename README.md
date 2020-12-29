@@ -5,7 +5,7 @@
     <a href="https://github.com/romainledru"><img src="https://img.shields.io/github/followers/romainledru.svg?label=GitHub&style=social" alt="GitHub"></a>
 </p>
 
-### Hi there 👋
+## Hi there 👋
 
 I am Romain Ledru, a French Engineer living in Germany.
 I enjoy writting code that help people to fulfill everydays tasks.

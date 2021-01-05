@@ -28,6 +28,8 @@ As an engineer, I have fun using new technologies to improve our lives.
 * Automatised Tracking processes
     * Stocks market
     * Amazon prices
+* Open source work
+    * Automated SQL Queries
 
 <!--
 **romainledru/romainledru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

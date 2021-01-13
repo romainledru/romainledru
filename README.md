@@ -19,16 +19,16 @@ As an engineer, I have fun using new technologies to improve our lives.
 
 ## Experience 🌱
 
-* Data Analysis at work
-    * Autonomous Driving Assistant Systems
-    * Python
-* Local Server at home
-    * Django
-    * RaspberryPi 4
+* Data Analysis (work)
+    * Robotic Trajectories for autonomous vehicle crash avoidance
+    * dGPS Road-Lane tracking validation
+* Local Server
+    * Family Shared Lists
+    * Django / RaspberryPi 4
 * Automatised Tracking processes
     * Stocks market
     * Amazon prices
-* Open source work
+* Open source
     * Automated SQL Queries
 
 <!--

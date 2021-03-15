@@ -8,7 +8,7 @@
 ## Hi there 👋
 
 I am Romain Ledru, a French Engineer living in Germany.
-I enjoy writting code that help people to fulfill everydays tasks.
+I enjoy writing code that help people to fulfill everydays tasks.
 
 I strongly think that our future will have more and more automatised processes.
 As an engineer, I have fun using new technologies to improve our lives.
